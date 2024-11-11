@@ -19,7 +19,7 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 
 ## Deployment Guide
 Oooops... I've not completed this yet. My bad. 
-If you think something is missing or incorrect, please raise them as issues [here](https://github.com/robwatts365/MicrosoftTeamsPhone-SetCallingPlansPhoneNumberFromCSV/issues).
+If you think something is missing or incorrect, please raise them as issues [here](https://github.com/robwatts365/MicrosoftTeamsPhone-SetDirectRoutingPhoneNumberFromCSV/issues).
 
 ## Disclaimer
 > [!IMPORTANT]
