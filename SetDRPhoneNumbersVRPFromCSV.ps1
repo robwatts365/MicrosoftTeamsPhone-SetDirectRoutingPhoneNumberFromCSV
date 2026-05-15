@@ -2,7 +2,7 @@
 Set Direct Routing Phone Numbers and Voice Routing Policies from CSV
     Version: v1.0
     Date: 15/05/2026
-    Author: Rob Watts | Sr UCC Engineer - AVI-SPL
+    Author: Rob Watts https://github.com/robwatts365
 #>
 
 #################################################################
@@ -26,7 +26,7 @@ Write-Host "---------------------------------" -ForegroundColor Gray
 Write-Host "Microsoft Teams: Set Direct Routing Phone Numbers and Voice Routing Policies from CSV" -ForegroundColor Gray -BackgroundColor Black
 Write-Host "Version: v1.0" -ForegroundColor Gray -BackgroundColor Black
 Write-Host "Date: 15/05/2026" -ForegroundColor Gray -BackgroundColor Black
-Write-Host "Author: Rob Watts | Sr UCC Engineer - AVI-SPL" -ForegroundColor Gray -BackgroundColor Black
+Write-Host "Author: Rob Watts @robwatts365" -ForegroundColor Gray -BackgroundColor Black
 
 # Enable File Saver for Log File
 [System.Reflection.Assembly]::LoadWithPartialName("System.windows.forms") | Out-Null
@@ -45,7 +45,7 @@ Write-LogFileMessage "---------------------------------"
 Write-LogFileMessage "Microsoft Teams: Set Direct Routing Phone Numbers and Voice Routing Policies from CSV"
 Write-LogFileMessage "Version: v1.0"
 Write-LogFileMessage "Date: 15/05/2026"
-Write-LogFileMessage "Author: Rob Watts | Sr UCC Engineer - AVI-SPL"
+Write-LogFileMessage "Author: Rob Watts @robwatts365"
 
 # Checks if MicrosoftTeams Powershell Module is installed
 Write-Host "---------------------------------" -ForegroundColor Gray
